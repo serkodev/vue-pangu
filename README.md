@@ -8,6 +8,8 @@
 
 Vue.js web converter of [pangu.js](https://github.com/vinta/pangu.js) (based on [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)).
 
+[Live Version](https://pangu.pages.dev/)
+
 ## Features
 
 - Convert with zero-delay
