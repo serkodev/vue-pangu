@@ -1966,10 +1966,10 @@ p-try@^2.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
 
-pangu@^4.0.7:
-  version "4.0.7"
-  resolved "https://registry.yarnpkg.com/pangu/-/pangu-4.0.7.tgz#2a40347733b004a040d011de460cc313c10391c9"
-  integrity sha512-weZKJIwwy5gjt4STGVUH9bix3BGk7wZ2ahtIypwe3e/mllsrIZIvtfLx1dPX56GcpZFOCFKmeqI1qVuB9enRzA==
+pangu@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/pangu/-/pangu-5.1.1.tgz#7d96818e97aae2583c0ca5bca7db02d7d49f817c"
+  integrity sha512-n18qyrw0IJv60G8ak2ilsRuA3jTDKDjLpwQmCbiuHI251rc3SSfUc/K+j4FfBJJG3mCSbdGNAidGaa0Y5Gobyg==
 
 parent-module@^1.0.0:
   version "1.0.1"
