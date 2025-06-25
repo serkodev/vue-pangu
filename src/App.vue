@@ -32,7 +32,7 @@ onMounted(() => {
   <nav class="h:3.5rem f:gray-10 bg:gray-95">
     <div class="d:flex h:full align-items:center px:24">
       <span class="mr:16 f:16 f:semibold">盤古之白</span>
-      <span class="opacity:.4">文案排版轉換 v0.0.1</span>
+      <span class="opacity:.4">文案排版轉換 v0.0.2</span>
       <a
         href="https://github.com/serkodev/vue-pangu" target="_blank" class="
       ml:auto
